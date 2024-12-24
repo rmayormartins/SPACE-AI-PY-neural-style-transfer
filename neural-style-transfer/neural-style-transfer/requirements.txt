@@ -1,0 +1,7 @@
+gradio
+tensorflow-hub
+numpy
+tensorflow
+opencv-python-headless
+
+
